@@ -1,1 +1,5 @@
-# SPACEAPPS_Dust-Shift
+# SPACEAPPS : Dust  Shift
+
+**Dust Shift: Survive the Lunar Dust** is a retro pixel-art survival game that runs in the browser. You command Outpost Halo, a four-person Moon base at the lunar south pole, and have 14 days to keep the crew alive until the relief ship arrives. Each day brings a new event, and you pick one response. Every choice helps one resource and costs another, so you’re constantly balancing power, air, suit seals, and crew health against the creeping buildup of sharp, sticky lunar dust.
+
+It has three difficulty levels (Rookie, Astronaut, Legend), a 3-day tutorial, and a story told through the crew’s daily log, including a recurring thread about Tomas and his daughter’s drawing. Runs end with a rank and score out of 100, and there are nine different endings to discover. A “Was that real?” section at the end links the gameplay to real lunar dust science from the Apollo missions and current engineering work on seals, coatings, and dust shields.
